@@ -6,7 +6,7 @@ This list of questions is also [downloadable as a PDF](https://github.com/nzufel
 
 #### Contributing
 
-Would you like to add questions, clarify questions, raise issues, or suggest changes? You can do so by [making an issue](https://github.com/nzufelt/anit-racist-curriculum-audit/issues) or, if you have GitHub experience, by submitting a pull request. _(Let me know in the [issue](https://github.com/nzufelt/anit-racist-curriculum-audit/issues) you create if you'd like to learn how to submit a pull request, I'd be happy to help!)_
+Would you like to add questions, clarify questions, raise issues, or suggest changes? You can do so by [making an issue](https://github.com/nzufelt/anti-racist-curriculum-audit/issues) or, if you have GitHub experience, by submitting a pull request. _(Let me know in the [issue](https://github.com/nzufelt/anti-racist-curriculum-audit/issues) you create if you'd like to learn how to submit a pull request, I'd be happy to help!)_
 
 ## The Questions
 
