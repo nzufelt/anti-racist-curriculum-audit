@@ -2,7 +2,7 @@
 
 How might your own computer science lessons and classroom be more actively anti-racist? Consider using this list of questions as a tool to self-audit. Constructed originally by Nick Zufelt from the work done at [the ethi{CS} summer project](https://tanginstitute.andover.edu/blog/2020/the-ethics-summer-project-1), a 4-session series on anti-racism in computer science classrooms.
 
-This list of questions is also [downloadable as a PDF](anit-racist-curriculum-audit.pdf).
+This list of questions is also [downloadable as a PDF](https://github.com/nzufelt/anti-racist-curriculum-audit/raw/master/anti-racist-curriculum-audit.pdf).
 
 #### Contributing
 
@@ -11,7 +11,7 @@ Would you like to add questions, clarify questions, raise issues, or suggest cha
 ## The Questions
 
 #### Avoiding Norms
-_These questions were generated in an attempt to avoid perpetuating White American/Western Dominant Culture Norms (to learn more, see, for example, this resource from Showing Up for Racial Justice)._
+_These questions were generated in an attempt to avoid perpetuating White American/Western Dominant Culture Norms (to learn more, see, for example, [this resource from Showing Up for Racial Justice](https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html))._
 
 * **Perfectionism**: How are mistakes valued for learning? Does that manifest in assessments?
 * **Sense of Urgency**: Do I give ample time for students who move at different paces? 
