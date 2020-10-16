@@ -2,6 +2,8 @@
 
 How might your own computer science lessons and classroom be more actively anti-racist? Consider using this list of questions as a tool to self-audit. Constructed originally by Nick Zufelt from the work done at [the ethi{CS} summer project](https://tanginstitute.andover.edu/blog/2020/the-ethics-summer-project-1), a 4-session series on anti-racism in computer science classrooms.
 
+It might be relevant to note, especially when reading the Self-Audit section, that the original author of this audit identifies as a white cis-gender male. If you consider adapting this to your own needs, your own identity and/or journey toward anti-racism should inform your adaptation.
+
 This list of questions is also [downloadable as a PDF](https://github.com/nzufelt/anti-racist-curriculum-audit/raw/master/anti-racist-curriculum-audit.pdf).
 
 #### Contributing
@@ -10,15 +12,15 @@ Would you like to add questions, clarify questions, raise issues, or suggest cha
 
 ## The Questions
 
-#### Avoiding Norms
+#### Welcoming New Norms
 _These questions were generated in an attempt to avoid perpetuating White American/Western Dominant Culture Norms (to learn more, see, for example, [this resource from Showing Up for Racial Justice](https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html))._
 
 * **Perfectionism**: How are mistakes valued for learning? Does that manifest in assessments?
-* **Sense of Urgency**: Do I give ample time for students who move at different paces? 
+* **Sense of Urgency**: Do I give ample time for students who move at different paces?
 * **Worship of the Written Word**: Are there moments where students can create in ways other than writing? Are they able to take in information in ways other than reading?
 * **Paternalism**: Does student choice convey the respect I have for their ability to govern their own learning?
 * **Fear of Open Conflict**: Are students able to challenge my assertions? Do they know how to do so without (fear of) being shut down?
-* **Individualism**: How is student success recognized? Is collective success recognized? 
+* **Individualism**: How is student success recognized? Is collective success recognized?
 * **Objectivity**: Do I offer and welcome other interpretations or ways of solving problems?
 
 #### Lesson Elements
@@ -30,7 +32,7 @@ _These questions were generated in an attempt to avoid perpetuating White Americ
 * How am I balancing formative and summative assessment? Can students test their own understanding discreetly and regularly?
 
 #### Assumptions and achievement gaps
-* How might a student’s confusion about previous material cause them to be stuck in this lesson? How does the lesson combat achievement gaps, rather than reinforce them? 
+* How might a student’s confusion about previous material cause them to be stuck in this lesson? How does the lesson combat achievement gaps, rather than reinforce them?
 * Is reproducing my actions a major component of the lesson, and how do I make that an achievable goal for all students? _(e.g., do I make explicit how sharing one’s confusion is a form of privilege?)_
 * What are students actually making in our classroom? How might students connect what they are actually making to their own lives or communities?
 * How is the students’ social/cultural background/identity valued and represented? Are there opportunities for students to create something that expresses their creativity, interests, and identities?
@@ -60,7 +62,7 @@ _Are there opportunities for both my students and me to practice being actively 
 _These questions help to serve as a reminder that my work toward becoming anti-racist is never done._
 
 * How are students involved with the creation of policy in our classroom?
-* Do I allow myself to embrace discomfort in this anti-racist work? 
+* Do I allow myself to embrace discomfort in this anti-racist work?
 * As I work through these questions, does a lack of knowledge about only some of my students emerge as a barrier? Why?
 * As I work through these questions, ask, “Am I tired/bored of answering them?” Is that a form of privilege?
 * What have I done today to further my work along the journey toward being an anti-racist educator?
