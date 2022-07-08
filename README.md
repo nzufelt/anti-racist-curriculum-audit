@@ -13,7 +13,7 @@ Would you like to add questions, clarify questions, raise issues, or suggest cha
 ## The Questions
 
 #### Welcoming New Norms
-_These questions were generated in an attempt to avoid perpetuating White American/Western Dominant Culture Norms (to learn more, see, for example, [this resource from Showing Up for Racial Justice](https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html))._
+_These questions were generated in an attempt to avoid perpetuating White American/Western Dominant Culture Norms (to learn more, see, for example, [this resource from Tema Okun](https://www.whitesupremacyculture.info/characteristics.html))._
 
 * **Perfectionism**: How are mistakes valued for learning? Does that manifest in assessments?
 * **Sense of Urgency**: Do I give ample time for students who move at different paces?
