@@ -1,6 +1,6 @@
 # An Anti-Racist CS Curriculum Audit
 
-How might your own computer science lessons and classroom be more actively anti-racist? Consider using this list of questions as a tool to self-audit. Constructed originally by Nick Zufelt from the work done at [the ethi{CS} summer project](https://tanginstitute.andover.edu/blog/2020/the-ethics-summer-project-1), a 4-session series on anti-racism in computer science classrooms.
+How might your own computer science lessons and classroom be more actively anti-racist?  Consider using this list of questions as a tool to self-audit. Constructed originally by Nick Zufelt from the work done at [the ethi{CS} summer project](https://tanginstitute.andover.edu/blog/2020/the-ethics-summer-project-1), a 4-session series on anti-racism in computer science classrooms.
 
 It might be relevant to note, especially when reading the Self-Audit section, that the original author of this audit identifies as a white cis-gender male. If you consider adapting this to your own needs, your own identity and/or journey toward anti-racism should inform your adaptation.
 
